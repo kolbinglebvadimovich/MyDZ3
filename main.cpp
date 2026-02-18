@@ -3,8 +3,9 @@
 int main()
 
 {
-   int variable1 { 399 };
-   int variable2 { 400 };
+   
+   int variable1 { 100 };
+   int variable2 { 50 };
 
     std::cout << (variable1 == variable2) << std::endl;
     std::cout << (variable1 != variable2) << std::endl;
@@ -16,6 +17,7 @@ int main()
     return EXIT_SUCCESS;
     
 }
+
 
 
 
